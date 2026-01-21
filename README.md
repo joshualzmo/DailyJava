@@ -47,5 +47,4 @@ This repository focuses on:
 
 ## 👤 Author
 
-Joshua 
-Student | Western University
+Joshua | Western University
