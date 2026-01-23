@@ -1,4 +1,4 @@
-# Day XX — School
+# Day 03 — School
 
 ## Topic
 Today I practiced store the objects of a class in an array of a different class. I used 
