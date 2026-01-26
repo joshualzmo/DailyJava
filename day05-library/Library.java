@@ -4,7 +4,7 @@ public class Library {
     private int counter = 0;
 
     public Library() {
-    }
+    } 
     public void addBook(Book b) {
         if (b == null) System.out.println("The object is empty.");
         else {
@@ -54,7 +54,4 @@ public class Library {
             }
         }
     }
-
-
-
 }
