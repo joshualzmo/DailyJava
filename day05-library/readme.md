@@ -12,7 +12,6 @@ class. Users can add/remove books, as well as print the entrie library.
 - Classes & objects
 - For loops
 - If/else statements
-- Getters
 
 ## What I Learned
 I learned how to properly keep track of null indexes in arrays. I also practiced input
