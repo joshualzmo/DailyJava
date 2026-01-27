@@ -3,7 +3,8 @@
 ## Topic
 In today's program, I practiced overloading the existing 'equals' method that 
 java taking in an object parameter and checking whether it is an instance of
-Point2D.
+Point2D. I also learned how '@override' create a complite-time error if the method
+you are creating does not match the parent method
 
 ## Description
 This program simulates a cartesian plan by creating a Point2D object and assigning them 
@@ -20,6 +21,7 @@ the origin (0,0).
 - I learned how to overload already existing java methods.
 - I learned how to typecast objects.
 - I learned a new part of the 'Math' class.
+- I learned how '@override' works.
 
 ## How to Run
 1. Compile the file(s)
